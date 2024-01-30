@@ -79,5 +79,5 @@ I am a self-taught newbie Golang developer.  I am passionate about backend devel
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
-  <a href="#" alt="Your GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=nikhilnarayanan623" /></a>
+  <a href="#" alt="Your GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=MaksKazantsev" /></a>
 </p>
