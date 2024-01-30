@@ -3,7 +3,7 @@
 
 <p align="center">I am a newbie in backend. Self-taught Golang developer.  I am eager to learn and achieve.</p>
 
-<h2 align="center">🛠 My skills</h2>
+<h2 align="center">⭐ My skills</h2>
 <p align="center">
    <a href="https://golang.org/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="50"
