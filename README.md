@@ -12,9 +12,6 @@
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" text-decorration="none"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
    </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"   
-      alt="docker" width="50" height="50"/> 
-   </a>
    <a href="https://git-scm.com/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" style="vertical-align:top;">
    </a>
@@ -31,6 +28,10 @@
    </a>
    <a href="">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50"
+      height="50" style="vertical-align:top;">
+   </a>
+    <a href="">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50"
       height="50" style="vertical-align:top;">
    </a>
 </p>
