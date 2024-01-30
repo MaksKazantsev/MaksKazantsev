@@ -3,7 +3,7 @@
 
 I am a self-taught newbie Golang developer.  I am passionate about backend development and distributed systems. I am constantly learning and looking for new challenges.
 
-<h2 align="center">🛠 Technologies & Skills</h2>
+<h2 align="center">🛠 My skills</h2>
 <p align="center">
    <a href="https://golang.org/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="45"
@@ -17,9 +17,6 @@ I am a self-taught newbie Golang developer.  I am passionate about backend devel
    </a>
    <a href="https://git-scm.com/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" style="vertical-align:top;">
-   </a>
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45"       height="45"/> 
    </a>
    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
