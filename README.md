@@ -24,14 +24,6 @@ I am a self-taught newbie Golang developer.  I am passionate about backend devel
    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
    </a>
-   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis"  width="45" height="45"/> </a>
-   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/> 
-   </a>   
-   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> 
-   </a>
    <a href="">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"
       width="45" height="45" style="vertical-align:top;">
