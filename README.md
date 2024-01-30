@@ -44,6 +44,7 @@
 - 💻 [HTTP SERVER](https://github.com/MaksKazantsev/simple-http-server)
 - 🚃 [CRUD API](https://github.com/MaksKazantsev/go-crud)
 - 🖥️ [WEATHER APP](https://github.com/MaksKazantsev/weatherApp)
+- 📙 [REACT TODO](https://github.com/MaksKazantsev/reactToDo)
 
 <h2 align="center">🚀 GitHub Stats</h2>
 <p align="center">
