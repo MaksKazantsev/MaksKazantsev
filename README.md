@@ -68,16 +68,16 @@ I am a self-taught newbie Golang developer.  I am passionate about backend devel
    </a>
 </p>
 <br/>
-<h2 align="center">💻 Projects</h2>
+<h2 align="center">My Projects</h2>
 <p align="left">
   Here are some of my projects:
 </p>
 
-- 🛍️ [HTTP SERVER](https://github.com/MaksKazantsev/simple-http-server)
+- 💻 [HTTP SERVER](https://github.com/MaksKazantsev/simple-http-server)
 - 🚃 [CRUD API](https://github.com/MaksKazantsev/go-crud)
 - 🌐 [WEATHER APP](https://github.com/MaksKazantsev/weatherApp)
 
-<h2 align="center">🚀 Activities</h2>
+<h2 align="center">🚀 GitHub Stats</h2>
 <p align="center">
   <a href="#" alt="Your GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=MaksKazantsev" /></a>
 </p>
