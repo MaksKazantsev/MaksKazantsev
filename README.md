@@ -47,10 +47,6 @@ I am a self-taught newbie Golang developer.  I am passionate about backend devel
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45"
       height="45" style="vertical-align:top;">
    </a>
-   <a href="https://aws.amazon.com/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-      alt="aws" width="45" height="45" style="vertical-align:top;">
-   </a>
 </p>
 <br/>
 <h2 align="center">📝  My Projects</h2>
