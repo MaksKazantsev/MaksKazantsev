@@ -73,9 +73,9 @@ I am a self-taught newbie Golang developer.  I am passionate about backend devel
   Here are some of my projects:
 </p>
 
-- 🛍️ [nikhilnarayanan623/ecommerce-gin-clean-arch](https://github.com/nikhilnarayanan623/ecommerce-gin-clean-arch)
-- 🚃 [nikhilnarayanan623/ecommerce-microservice-clean-arch](https://github.com/nikhilnarayanan623/ecommerce-microservice-clean-arch)
-- 🌐 [nikhilnarayanan623/react-go-messenger](https://github.com/nikhilnarayanan623/react-go-messenger)
+- 🛍️ [HTTP SERVER](https://github.com/MaksKazantsev/simple-http-server)
+- 🚃 [CRUD API](https://github.com/MaksKazantsev/go-crud)
+- 🌐 [WEATHER APP](https://github.com/MaksKazantsev/weatherApp)
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
