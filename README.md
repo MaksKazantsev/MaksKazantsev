@@ -1,7 +1,7 @@
 ![](assets/header.png)
-<h1 align="center">Hi there, I'm Nikhil N 👋</h1>
+<h1 align="center">Hi there, I'm Maksim Kazantsev 👋</h1>
 
-I am a self-taught Golang developer.  I am passionate about backend development and distributed systems. I have completed an e-commerce main project and several mini-projects in the Go Programing language and collaborated on a chatting app project with a front-end developer. I am familiar with clean code architecture and unit testing. I am constantly learning and looking for new challenges.
+I am a self-taught newbie Golang developer.  I am passionate about backend development and distributed systems. I am constantly learning and looking for new challenges.
 
 <p align="center"> 
  <a href="https://www.linkedin.com/in/nikhil623" alt="Your LinkedIn">
