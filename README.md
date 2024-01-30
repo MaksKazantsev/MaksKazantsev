@@ -1,7 +1,7 @@
 ![](assets/header.png)
 <h1 align="center">Hi there, I'm Maksim Kazantsev 👋</h1>
 
-I am a newbie in backend. Self-taught Golang developer.  I am eager to learn and achieve.
+<p align="center">I am a newbie in backend. Self-taught Golang developer.  I am eager to learn and achieve.</p>
 
 <h2 align="center">🛠 My skills</h2>
 <p align="center">
