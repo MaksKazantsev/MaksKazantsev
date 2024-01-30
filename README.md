@@ -3,21 +3,6 @@
 
 I am a self-taught newbie Golang developer.  I am passionate about backend development and distributed systems. I am constantly learning and looking for new challenges.
 
-<p align="center"> 
- <a href="https://www.linkedin.com/in/nikhil623" alt="Your LinkedIn">
-   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/your_linkedin_profile" />
- </a>
- <a href="https://leetcode.com/nikhil623/" alt="Your LeetCode">
-   <img src="https://img.shields.io/badge/%20-LeetCode-%23FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
- </a>
- <a href="https://your-blog.netlify.app" alt="Your Blog">
-   <img src="tps://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
- </a>
- <a>
-   <img src="https://komarev.com/ghpvc/?username=nikhilnarayanan623&color=ff69b4&style=for-the-badge" />
- </a>
-</p>
-
 <h2 align="center">🛠 Technologies & Skills</h2>
 <p align="center">
    <a href="https://golang.org/">
@@ -68,14 +53,14 @@ I am a self-taught newbie Golang developer.  I am passionate about backend devel
    </a>
 </p>
 <br/>
-<h2 align="center">My Projects</h2>
+<h2 align="center">📝  My Projects</h2>
 <p align="left">
   Here are some of my projects:
 </p>
 
 - 💻 [HTTP SERVER](https://github.com/MaksKazantsev/simple-http-server)
 - 🚃 [CRUD API](https://github.com/MaksKazantsev/go-crud)
-- 🌐 [WEATHER APP](https://github.com/MaksKazantsev/weatherApp)
+- 🖥️ [WEATHER APP](https://github.com/MaksKazantsev/weatherApp)
 
 <h2 align="center">🚀 GitHub Stats</h2>
 <p align="center">
