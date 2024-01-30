@@ -32,13 +32,6 @@ I am a self-taught newbie Golang developer.  I am passionate about backend devel
    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> 
    </a>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"
-      style="vertical-align:top;">
-   </a>
-   <a href="">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45"
-      height="45" style="vertical-align:top;">
-   </a>
    <a href="">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"
       width="45" height="45" style="vertical-align:top;">
