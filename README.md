@@ -9,8 +9,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="50"
       height="50" style="vertical-align:top;">
    </a>
-   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" text-decorration="none"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" text-decorration="none"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="" width="50" height="50"/> 
    </a>
    <a href="https://git-scm.com/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" style="vertical-align:top;">
