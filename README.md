@@ -44,7 +44,7 @@
 - 💻 [HTTP SERVER](https://github.com/MaksKazantsev/simple-http-server)
 - 🚃 [SIMPLE GO CRUD](https://github.com/MaksKazantsev/go-crud)
 - 🖥️ [WEATHER APP](https://github.com/MaksKazantsev/weatherApp)
-- 📙 [MongoDB](https://github.com/MaksKazantsev/mongoDB)
+- 📙 [Employee Management System](https://github.com/MaksKazantsev/mongoDB)
 
 <h2 align="center">🚀 GitHub Stats</h2>
 <p align="center">
