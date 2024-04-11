@@ -41,9 +41,9 @@
   Here are some of my projects:
 </p>
 
-- 💻 [HTTP SERVER](https://github.com/MaksKazantsev/simple-http-server)
-- 🚃 [SIMPLE GO CRUD](https://github.com/MaksKazantsev/go-crud)
-- 🖥️ [WEATHER APP](https://github.com/MaksKazantsev/weatherApp)
+- 💻 [GRPC SERVICE](https://github.com/MaksKazantsev/grpc_service)
+- 🚃 [SOCIAL NETWORK](https://github.com/MaksKazantsev/chatter)
+- 🖥️ [PC SERVICE](https://github.com/MaksKazantsev/pc_service)
 - 📙 [EMPLOYEE MANAGEMENT SYSTEM](https://github.com/MaksKazantsev/mongoDB)
 
 <h2 align="center">🚀 GitHub Stats</h2>
