@@ -38,7 +38,7 @@
 
 ---
 
-<p align="center">🚀 GitHub Stats</p>
+<h2 align="center">🚀 GitHub Stats</h2>
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MaksKazantsev&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksKazantsev&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
