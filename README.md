@@ -63,7 +63,7 @@
   Here are some of my projects:
 </p>
 
-- 💻 [GRPC SERVICE](https://github.com/MaksKazantsev/grpc_service)
+- 💻 [LRU/LFU CACHE](https://github.com/MaksKazantsev/Cachery)
 - 🚃 [SOCIAL NETWORK](https://github.com/MaksKazantsev/chatter)
 - 🖥️ [PC SERVICE](https://github.com/MaksKazantsev/pc_service)
 - 📙 [EMPLOYEE MANAGEMENT SYSTEM](https://github.com/MaksKazantsev/mongoDB)
