@@ -63,7 +63,7 @@
   Here are some of my projects:
 </p>
 
-- 💻 [LRU/LFU CACHE](https://github.com/MaksKazantsev/Cachery)
+- 💻 [WEATHER APP](https://github.com/MaksKazantsev/Weathery)
 - 🚃 [SOCIAL NETWORK](https://github.com/MaksKazantsev/chatter)
 - 🖥️ [PC SERVICE](https://github.com/MaksKazantsev/pc_service)
 - 📙 [EMPLOYEE MANAGEMENT SYSTEM](https://github.com/MaksKazantsev/mongoDB)
