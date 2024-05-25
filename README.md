@@ -66,5 +66,5 @@
 - 💻 [WEATHER APP](https://github.com/MaksKazantsev/Weathery)
 - 🚃 [SOCIAL NETWORK](https://github.com/MaksKazantsev/chatter)
 - 🖥️ [PC SERVICE](https://github.com/MaksKazantsev/pc_service)
-- 📙 [EMPLOYEE SERVICE](https://github.com/MaksKazantsev/mongoDB)
+- 📙 [EMPLOYEE MANAGEMENT SYSTEM](https://github.com/MaksKazantsev/mongoDB)
 
