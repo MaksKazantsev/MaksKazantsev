@@ -19,7 +19,7 @@
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
    </a>
     <a href="">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50"
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="grpc" width="50"
       height="50" style="vertical-align:top;">
    </a>
    <a href="">
