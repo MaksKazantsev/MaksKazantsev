@@ -14,7 +14,7 @@
       height="50" style="vertical-align:top;">
    </a>
    </a>
-   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+   <a style="text-decoration:none" href="https://postman.com" target="_blank" rel="noreferrer"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> 
    </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" text-decorration="none"> 
