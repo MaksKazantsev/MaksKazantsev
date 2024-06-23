@@ -9,7 +9,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="50"
       height="50" style="vertical-align:top;">
    </a>
-   <a href="">
+   <a style="text-decoration:none" href="">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" width="50"
       height="50" style="vertical-align:top;">
    </a>
