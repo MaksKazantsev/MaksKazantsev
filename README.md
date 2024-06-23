@@ -31,7 +31,7 @@
       width="50" height="50" style="vertical-align:top;">
    </a>
     <a href="" style="text-decoration:none">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50"
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50"
       height="50" style="vertical-align:top;">
    </a>
 </p>
