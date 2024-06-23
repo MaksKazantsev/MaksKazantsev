@@ -13,15 +13,15 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" width="50"
       height="50" style="vertical-align:top;">
    </a>
+   </a>
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/> 
+   </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" text-decorration="none"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="" width="50" height="50"/> 
    </a>
    <a href="https://git-scm.com/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" style="vertical-align:top;">
-   </a>
-   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
-   </a>
     <a href="">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="grpc" width="50"
       height="50" style="vertical-align:top;">
