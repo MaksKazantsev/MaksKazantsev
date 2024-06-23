@@ -22,15 +22,15 @@
    </a>
    <a href="https://git-scm.com/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" style="vertical-align:top;">
-    <a href="">
+    <a href="" style="text-decoration:none">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="grpc" width="50"
       height="50" style="vertical-align:top;">
    </a>
-   <a href="">
+   <a href="" style="text-decoration:none">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"
       width="50" height="50" style="vertical-align:top;">
    </a>
-    <a href="">
+    <a href="" style="text-decoration:none">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50"
       height="50" style="vertical-align:top;">
    </a>
