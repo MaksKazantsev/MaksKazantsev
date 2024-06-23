@@ -9,6 +9,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="50"
       height="50" style="vertical-align:top;">
    </a>
+   <a href="">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" width="50"
+      height="50" style="vertical-align:top;">
+   </a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" text-decorration="none"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="" width="50" height="50"/> 
    </a>
@@ -25,10 +29,6 @@
    <a href="">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"
       width="50" height="50" style="vertical-align:top;">
-   </a>
-   <a href="">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="50"
-      height="50" style="vertical-align:top;">
    </a>
     <a href="">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="50"
